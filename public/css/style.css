@@ -1,0 +1,29 @@
+* {
+    font-family: Roboto;
+}
+
+/* geral */
+
+.msg{
+    background-color: green;
+    color: white;
+    border: 1px solid gray;
+    width: 100%;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}
